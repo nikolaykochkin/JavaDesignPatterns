@@ -1,2 +1,2 @@
 # JavaDesignPatterns
-My example of OOP design patterns 
+My examples of OOP design patterns from book "Head First Design Patterns O'Reilly"
