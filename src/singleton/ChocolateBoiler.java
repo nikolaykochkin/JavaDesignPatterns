@@ -35,7 +35,7 @@ public class ChocolateBoiler {
     }
 
     public void boil() {
-        if(!isEmpty() && !isBoiled()) {
+        if (!isEmpty() && !isBoiled()) {
             boiled = true;
         }
     }
