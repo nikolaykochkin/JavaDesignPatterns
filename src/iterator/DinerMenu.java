@@ -43,10 +43,6 @@ public class DinerMenu implements Menu {
         }
     }
 
-    public MenuItem[] getMenuItems() {
-        return menuItems;
-    }
-
     public Iterator<MenuItem> createIterator() {
         return new DinerMenuIterator(menuItems);
     }

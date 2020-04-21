@@ -35,10 +35,6 @@ public class PancakeHouseMenu implements Menu {
         menuItems.add(menuItem);
     }
 
-    public ArrayList<MenuItem> getMenuItems() {
-        return menuItems;
-    }
-
     public Iterator<MenuItem> createIterator() {
         return menuItems.iterator();
     }
